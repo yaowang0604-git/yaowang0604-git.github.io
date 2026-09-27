@@ -9,7 +9,7 @@ author_profile: true
 
 **August 2022–present, The University of Texas at Austin**
 
-My duties include holding office hours, grading homework, maintaining sample homework solutions and assist the instructors when necessary.
+My duties include holding office hours, grading homework, maintaining sample homework solutions and assisting the instructors when necessary.
 
 ### Graduate Prelim Courses
 
