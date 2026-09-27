@@ -19,4 +19,4 @@ I am also working on **wavefunction wall crossing and the punctured–open corre
 
 From April to June 2026, I was a visiting student at **DPMMS, University of Cambridge**, hosted by **Mark Gross**.
 
-Please see my [research](/research/), [publications](/publications/), [talks](/talks/), [teaching and mentoring](/teaching/), and [CV](/cv/).
+Please see my [research](/research/), [talks](/talks/), [teaching and mentoring](/teaching/), [travel](/travel/), [service](/service/), [writing](/writing/), and [CV](/files/Wang_Yao_CV.pdf).
