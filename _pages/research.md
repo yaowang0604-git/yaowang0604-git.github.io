@@ -24,5 +24,5 @@ This is a continuation of our quantum closed string mirror symmetry work and con
 
 ### Theta Functions and Crystal Melting in Toric Degeneration Mirror Symmetry
 
-
+This is to understand the story of crystal melting in toric degeneration mirror symmetry.
 
