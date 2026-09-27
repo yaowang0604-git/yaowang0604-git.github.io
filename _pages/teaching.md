@@ -11,7 +11,7 @@ author_profile: true
 
 My duties include holding office hours, grading homework, maintaining sample homework solutions and assist the instructors when necessary.
 
-### Graduate Preliminary-exam Courses
+### Graduate Prelim Courses
 
 - **Algebra I** — Fall 2024, Fall 2025, Fall 2026
 - **Differential Topology** — Spring 2025
