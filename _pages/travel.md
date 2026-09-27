@@ -4,9 +4,6 @@ title: "Travel"
 permalink: /travel/
 author_profile: true
 ---
-
-## Conferences and Workshops Attended
-
 - **String Math 2026**, Edinburgh, UK — June 2026
 - **25th Anniversary of the Gross–Siebert Program**, Cetraro, Italy — May 2026
 - **2025 Summer Research Institute in Algebraic Geometry**, Colorado State University, USA — July 2025
