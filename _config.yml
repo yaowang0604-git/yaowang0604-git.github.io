@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Wang Yao"
+title                    : "Wang Yao (姚旺)"
 title_separator          : "-"
-name                     : &name "Wang Yao"
-description              : &description "Wang Yao — Ph.D. Candidate in Mathematics at The University of Texas at Austin, working in algebraic geometry and mathematical physics."
+name                     : &name "Wang Yao (姚旺)"
+description              : &description "Wang Yao (姚旺) — Ph.D. Candidate in Mathematics at The University of Texas at Austin, working in algebraic geometry and mathematical physics."
 url                      : https://yaowang0604-git.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
