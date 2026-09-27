@@ -26,9 +26,9 @@ author:
   avatar           :
   name             : "Wang Yao"
   pronouns         : "He/Him/His"  
-  bio              : "Ph.D. Candidate in Mathematics at UT Austin"
+  bio              : "Ph.D. Candidate in Mathematics at The University of Texas at Austin"
   location         : "Austin, Texas"
-  employer         : "The University of Texas at Austin"
+  employer         : 
   uri              : # URL
   email            : "wangyao@utexas.edu"
 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "yaowang0604-git"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
