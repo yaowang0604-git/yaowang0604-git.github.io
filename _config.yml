@@ -23,7 +23,7 @@ repository               : "yaowang0604-git/yaowang0604-git.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
+  avatar           : "Head Photo.png"
   name             : "Wang Yao"
   pronouns         : "He/Him/His"  
   bio              : "Ph.D. Candidate in Mathematics at The University of Texas at Austin"
