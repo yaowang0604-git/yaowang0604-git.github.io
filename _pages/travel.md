@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Travels"
+title: "Travel"
 permalink: /travel/
 author_profile: true
 ---
