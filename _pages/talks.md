@@ -21,5 +21,5 @@ author_profile: true
 - **Variation of Hodge Structures and Hodge-Theoretic Mirror Symmetry** — Junior Geometry Seminar, UT Austin, April 2024.
 - **Virtual Fundamental Class** — Junior Geometry Seminar, UT Austin, September 2023.
 - **Dimer Model, Amoeba and Crystal Melting** — Algebraic Geometry and Mirror Symmetry Seminar, UT Austin, September 2023.
-- **Geometric Engineering for 4d $N=2$ Supersymmetric Quantum Field Theory** — Junior Geometry and String Theory Seminar, UT Austin, April 2023.
+- **Geometric Engineering for 4d $\mathcal{N}=2$ Supersymmetric Quantum Field Theory** — Junior Geometry and String Theory Seminar, UT Austin, April 2023.
 
