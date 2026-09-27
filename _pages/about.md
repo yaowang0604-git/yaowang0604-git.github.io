@@ -16,3 +16,5 @@ From April to June 2026, I was a visiting student at **DPMMS, University of Camb
 Before my PhD, I got my BSc in Physics and Mathematics (double bachelor degree) at **Peking University**, where I learnt some supersymmetric quantum field theory and string theory from **Yinan Wang** and some symplectic geometry from **Bohan Fang**.
 
 Here is my CV. Please see my [research](/research/), [talks](/talks/), [teaching and mentoring](/teaching/).
+
+PS: My first name is Wang (旺) (meaning in Chinese: prosperity), which is different from the common Chinese last name Wang (王). They have different characters and tones. I am usually addressed by Wang :)
