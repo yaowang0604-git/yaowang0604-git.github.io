@@ -7,9 +7,9 @@ author_profile: true
 
 ## Invited Research Talks and Posters
 
-- **Quantum Mirror Symmetry Via Gross–Siebert Program** — Poster, String Math 2026, Edinburgh, UK, June 2026.
+- **Quantum Mirror Symmetry Via Gross–Siebert Program** — [Poster](/files/Poster_String_Math_2026_Edinburgh.pdf), String Math 2026, Edinburgh, UK, June 2026. 
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — 1-hour talk, Junior Geometry Seminar, University of Cambridge, UK, June 2026.
-- **Quantum Mirror Symmetry Via Gross–Siebert Program** — Contributed talk, 25th Anniversary of the Gross–Siebert Program, Cetraro, Italy, May 2026.
+- **Quantum Mirror Symmetry Via Gross–Siebert Program** — Contributed talk, 25th Anniversary of the Gross–Siebert Program, Cetraro, Italy, May 2026. [Slides](https://drive.google.com/file/d/1MUYc2cbYcLk0yLbg2sse0o6843c9eaWA/view)
 
 ## Learning Seminar Talks
 
