@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Wang Yao"
 title_separator          : "-"
 name                     : &name "Wang Yao"
-description              : &description "Wang Yao — Ph.D. candidate in mathematics at The University of Texas at Austin, working in algebraic geometry, mirror symmetry, and mathematical physics."
+description              : &description "Wang Yao — Ph.D. Candidate in Mathematics at The University of Texas at Austin, working in algebraic geometry and mathematical physics."
 url                      : https://yaowang0604-git.github.io
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           :
   name             : "Wang Yao"
-  pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate in Mathematics at UT Austin"
+  pronouns         : "He/Him/His"  
+  bio              : "Ph.D. Candidate in Mathematics at UT Austin"
   location         : "Austin, Texas"
   employer         : "The University of Texas at Austin"
   uri              : # URL
