@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in mathematics at **The University of Texas at Austin**, advised by **Bernd Siebert**. My research lies at the intersection of **algebraic geometry** and **mathematical physics**, with a focus on mirror symmetry, enumerative geometry, tropical and logarithmic geometry, and deformation quantization.
+I am a **PhD candidate in Mathematics at The University of Texas at Austin**, advised by **Bernd Siebert**. My research lies at the intersection of **algebraic geometry and mathematical physics**, with an emphasis on tropical and logarithmic methods in enumerative geometry and mirror symmetry. I am also broadly interested in connections between geometry and theoretical physics, including supersymmetric quantum field theory, string theory, and M-theory.
 
-My current research develops geometric approaches to quantum mirror symmetry. In joint work with **Pierrick Bousseau** and **Bernd Siebert**, we prove the quantum closed-string mirror-symmetry conjecture of Aganagic–Cheng–Dijkgraaf–Krefl–Vafa for local \(\mathbb{P}^2\). The proof replaces difficult WKB calculations by an intrinsic interpretation of quantum periods using deformation quantization and the Gross–Siebert construction. The method extends directly to local toric del Pezzo surfaces.
+My current work concerns **quantum mirror symmetry**. In joint work with **Pierrick Bousseau** and **Bernd Siebert**, we give the first mathematical proof of the quantum closed-string mirror-symmetry conjecture for local P² proposed by Aganagic–Cheng–Dijkgraaf–Krefl–Vafa. The two main ingredients are an intrinsic definition of quantum periods using deformation quantization and the Gross–Siebert construction of the mirror proper Landau–Ginzburg model.
 
-I was a visiting student at **DPMMS, University of Cambridge** from April to June 2026, hosted by **Mark Gross**.
+From April to June 2026, I was a visiting student at **DPMMS, University of Cambridge**, hosted by **Mark Gross**.
 
-You can find more about my [research](/research/), [publications](/publications/), [talks](/talks/), [teaching](/teaching/), and [CV](/cv/).
+Please see my [research](/research/), [publications](/publications/), [talks](/talks/), [teaching and mentoring](/teaching/), and [CV](/cv/).

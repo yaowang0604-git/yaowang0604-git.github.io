@@ -5,22 +5,57 @@ permalink: /research/
 author_profile: true
 ---
 
-My research lies at the intersection of algebraic geometry and mathematical physics. During my Ph.D. I have been exploring applications of tropical and logarithmic methods to enumerative geometry and mirror symmetry, together with connections to quantum field theory and string theory.
+My research interests lie at the intersection of **algebraic geometry** and **mathematical physics**. During my PhD under the supervision of Bernd Siebert, I have been exploring applications of tropical and logarithmic methods to enumerative geometry and mirror symmetry. With training in both mathematics and physics, I am broadly interested in connections between geometry and theoretical physics, including supersymmetric quantum field theory, string theory, and M-theory.
 
 ## Quantum mirror symmetry
 
-My main current project is joint work with **Pierrick Bousseau** and **Bernd Siebert** on the quantum geometry of the mirror Landau–Ginzburg model of \((\mathbb{P}^2,E)\). We prove the quantum closed-string mirror-symmetry conjecture of Aganagic–Cheng–Dijkgraaf–Krefl–Vafa for local \(\mathbb{P}^2\).
+My main current project is joint work with **Pierrick Bousseau** and **Bernd Siebert** on
 
-The central difficulty is that the B-model quantum periods are traditionally defined through WKB analysis of a difference equation and are difficult to compare directly with higher-genus curve-counting invariants. Our approach gives an intrinsic, coordinate-free interpretation of these quantum periods using deformation quantization. We then combine this with the Gross–Siebert mirror construction, whose wall structures encode the relevant enumerative geometry. In coordinates adapted to the Gross–Siebert construction, the mirror-symmetry comparison becomes transparent. The method extends directly to local toric del Pezzo surfaces.
+> *Quantum Geometry of Mirror Landau–Ginzburg Model of* \((\mathbb{P}^2,E)\).
 
-## Ongoing directions
+We prove the quantum closed-string mirror-symmetry conjecture for the local Calabi–Yau geometry
+\[
+K_{\mathbb{P}^2},
+\]
+proposed by Aganagic–Cheng–Dijkgraaf–Krefl–Vafa.
 
-**Wavefunctions, Wall Crossing and Punctured–Open Correspondence**  
-Joint with Pierrick Bousseau and Bernd Siebert. We study the open-string part of quantum mirror symmetry through wall crossing of wavefunctions in quantum scattering diagrams. The goal is to relate open-string invariants to punctured Gromov–Witten invariants and formulate a punctured–open correspondence.
+The two key ingredients are:
 
-**Theta Functions and Crystal Melting in Toric Degeneration Mirror Symmetry**  
-I am investigating how theta functions in the Gross–Siebert program behave under logarithmic equivariant localization, with the aim of extending the Gromov–Witten/Donaldson–Thomas crystal-melting picture from toric Calabi–Yau geometries to more general toric degenerations.
+1. an intrinsic definition of quantum periods using **deformation quantization**; and
+2. the **Gross–Siebert construction** of the mirror proper Landau–Ginzburg model.
 
-## Broader interests
+This gives a geometric way to understand the B-model quantum periods, rather than treating them only through order-by-order WKB calculations. Because these ingredients are available more generally, the same approach extends to local toric del Pezzo surfaces.
 
-I am also interested in the topological string/spectral theory correspondence, quantum integrable systems, and intrinsic quantum action-angle coordinates.
+The project also reformulates the quantum open-string mirror-symmetry conjecture for \(K_{\mathbb{P}^2}\), and more generally for local toric del Pezzo surfaces, as a **punctured–open correspondence** in enumerative geometry.
+
+## Ongoing research projects
+
+### Wavefunctions, Wall Crossing and Punctured–Open Correspondence
+
+Joint work with **Pierrick Bousseau** and **Bernd Siebert**.
+
+I study the open-string enumerative meaning of wall crossing of wavefunctions in the quantum wall structures of the Gross–Siebert program, with the goal of proving the open-string part of the quantum mirror-symmetry conjecture for local toric del Pezzo surfaces.
+
+### Theta Functions and Crystal Melting in Toric Degeneration Mirror Symmetry
+
+I study the role of theta functions in the Gross–Siebert toric-degeneration mirror construction after logarithmic equivariant localization. The project aims to extend the crystal-melting picture of Gromov–Witten and Donaldson–Thomas theory from the toric case to general toric degenerations, and to understand its relation to quantum mirror geometry and the emergence of classical mirror geometry in the semiclassical limit.
+
+## LaTeX on this page
+
+Mathematics on this website is rendered with MathJax. For example, inline code such as
+
+`\\(K_{\\mathbb{P}^2}\\)`
+
+renders as \(K_{\mathbb{P}^2}\), while display mathematics can be written as
+
+```latex
+\\[
+(\\mathbb{P}^2,E)
+\\]
+```
+
+and will be typeset as
+
+\[
+(\mathbb{P}^2,E).
+\]
