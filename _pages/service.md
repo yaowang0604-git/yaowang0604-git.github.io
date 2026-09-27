@@ -9,7 +9,7 @@ author_profile: true
 
 ### Junior Geometry and QFT Seminar
 
-**Organizer, The University of Texas at Austin**  
+**Organizer, [The University of Texas at Austin](https://www.utexas.edu/)**  
 Fall 2024; Spring 2025; Fall 2025
 
 A joint seminar for mathematicians and physicists interested in geometry and theoretical physics.
@@ -18,5 +18,5 @@ Past topics include quantum integrable systems, topological quantum field theory
 
 ### Algebraic Geometry Learning Seminar
 
-**Organizer, The University of Texas at Austin**  
+**Organizer, [The University of Texas at Austin](https://www.utexas.edu/)**  
 Fall 2022; Spring 2023

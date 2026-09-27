@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-**August 2022–present, The University of Texas at Austin**
+**August 2022–present, [The University of Texas at Austin](https://www.utexas.edu/)**
 
 My duties include holding office hours, grading homework, maintaining sample homework solutions and assisting the instructors when necessary.
 
@@ -26,6 +26,6 @@ My duties include holding office hours, grading homework, maintaining sample hom
 
 ## Directed Reading Program
 
-**Mentor, Fall 2025, The University of Texas at Austin**
+**Mentor, Fall 2025, [The University of Texas at Austin](https://www.utexas.edu/)**
 
-I mentored **Xinbo Li** in a reading program on Robin Hartshorne's *Algebraic Geometry*. The final presentation was *From Classical to Modern: Bridging Varieties and Schemes*. **Xinbo Li** is now a PhD student in mathematics at Duke University.
+I mentored **Xinbo Li** in a reading program on Robin Hartshorne's *Algebraic Geometry*. The final presentation was *From Classical to Modern: Bridging Varieties and Schemes*. **Xinbo Li** is now a PhD student in mathematics at [Duke University](https://duke.edu/).

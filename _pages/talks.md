@@ -8,18 +8,18 @@ author_profile: true
 ## Invited Research Talks and Posters
 
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — [Poster](/files/Poster_String_Math_2026_Edinburgh.pdf), [String Math 2026](https://icms.ac.uk/activities/workshop/stringmath26/), Edinburgh, UK, June 2026. 
-- **Quantum Mirror Symmetry Via Gross–Siebert Program** — 1-hour talk, Junior Geometry Seminar, University of Cambridge, UK, June 2026.
+- **Quantum Mirror Symmetry Via Gross–Siebert Program** — 1-hour talk, Junior Geometry Seminar, [University of Cambridge](https://www.cam.ac.uk/), UK, June 2026.
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — Contributed talk, [25th Anniversary of the Gross–Siebert Program](https://sites.google.com/view/gs25anniversary/), Cetraro, Italy, May 2026. [Slides](/files/Cetraro_Talk.pdf)
 
 ## Learning Seminar Talks
 
-- **Symplectic SYZ Mirror Symmetry of Log Calabi–Yau Pairs** — Algebraic Geometry and Mirror Symmetry Seminar, UT Austin, December 2025.
-- **Quantization of Chromatic Lagrangian and Open Gromov–Witten Invariants** — Algebraic Geometry and Mirror Symmetry Seminar, UT Austin, March 2025.
-- **Chern–Simons Theory, Quantum Knot Invariant and Large-N Duality** — Junior Geometry and QFT Seminar, UT Austin, February 2025.
-- **Open Mirror Symmetry of Toric Calabi–Yau Threefolds** — Junior Geometry and QFT Seminar, UT Austin, September 2024.
-- **Quantum Mirror of Log Calabi–Yau Surfaces** — Algebraic Geometry and Mirror Symmetry Seminar, UT Austin, April 2024.
-- **Variation of Hodge Structures and Hodge-Theoretic Mirror Symmetry** — Junior Geometry Seminar, UT Austin, April 2024.
-- **Virtual Fundamental Class** — Junior Geometry Seminar, UT Austin, September 2023.
-- **Dimer Model, Amoeba and Crystal Melting** — Algebraic Geometry and Mirror Symmetry Seminar, UT Austin, September 2023.
-- **Geometric Engineering for 4d $\mathcal{N}=2$ Supersymmetric Quantum Field Theory** — Junior Geometry and String Theory Seminar, UT Austin, April 2023.
+- **Symplectic SYZ Mirror Symmetry of Log Calabi–Yau Pairs** — Algebraic Geometry and Mirror Symmetry Seminar, [UT Austin](https://www.utexas.edu/), December 2025.
+- **Quantization of Chromatic Lagrangian and Open Gromov–Witten Invariants** — Algebraic Geometry and Mirror Symmetry Seminar, [UT Austin](https://www.utexas.edu/), March 2025.
+- **Chern–Simons Theory, Quantum Knot Invariant and Large-N Duality** — Junior Geometry and QFT Seminar, [UT Austin](https://www.utexas.edu/), February 2025.
+- **Open Mirror Symmetry of Toric Calabi–Yau Threefolds** — Junior Geometry and QFT Seminar, [UT Austin](https://www.utexas.edu/), September 2024.
+- **Quantum Mirror of Log Calabi–Yau Surfaces** — Algebraic Geometry and Mirror Symmetry Seminar, [UT Austin](https://www.utexas.edu/), April 2024.
+- **Variation of Hodge Structures and Hodge-Theoretic Mirror Symmetry** — Junior Geometry Seminar, [UT Austin](https://www.utexas.edu/), April 2024.
+- **Virtual Fundamental Class** — Junior Geometry Seminar, [UT Austin](https://www.utexas.edu/), September 2023.
+- **Dimer Model, Amoeba and Crystal Melting** — Algebraic Geometry and Mirror Symmetry Seminar, [UT Austin](https://www.utexas.edu/), September 2023.
+- **Geometric Engineering for 4d $\mathcal{N}=2$ Supersymmetric Quantum Field Theory** — Junior Geometry and String Theory Seminar, [UT Austin](https://www.utexas.edu/), April 2023.
 
