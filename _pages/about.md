@@ -17,4 +17,4 @@ Before my PhD, I got my BSc in Physics and Mathematics (double bachelor degree) 
 
 Here is my CV. Please see my [research](/research/), [talks](/talks/), [teaching and mentoring](/teaching/).
 
-PS: My first name is Wang (旺) (meaning in Chinese: prosperity), which is different from the common Chinese last name Wang (王). They have different characters and tones. I am usually addressed by Wang :)
+PS: My first name is Wang (旺) (Chinese meaning: prosperity), which is different from the common Chinese last name Wang (王). They have different characters and tones. I am usually addressed by Wang :)
