@@ -13,7 +13,7 @@ I am currently on the job-market for math postdoc positions.
 
 From April to June 2026, I was a visiting student at **DPMMS, [University of Cambridge](https://www.cam.ac.uk/)**, hosted by **[Mark Gross](https://www.dpmms.cam.ac.uk/~mg475)**.
 
-Before my PhD, I got my BSc in Physics and Mathematics (double bachelor degree) at **[Peking University](https://english.pku.edu.cn/)**, where I learnt some supersymmetric quantum field theory and string theory from **[Yinan Wang](https://inspirehep.net/authors/1066122)** and some symplectic geometry from **[Bohan Fang](https://bohanfang.github.io/)**.
+Before my PhD, I got my BSc in Physics and Mathematics (double bachelor degree) at **[Peking University](https://english.pku.edu.cn/)**, where I learnt some supersymmetric quantum field theory, string theory from **[Yinan Wang](https://inspirehep.net/authors/1066122)** and some symplectic geometry from **[Bohan Fang](https://bohanfang.github.io/)**.
 
 My email is wangyao AT utexas DOT edu. Please feel free to reach me if you are interested in my research.
 
