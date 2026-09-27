@@ -10,7 +10,7 @@ author_profile: true
 ### Geometric Engineering for 4d $N=2$ Supersymmetric Field Theory
 **Undergraduate thesis, Peking University**, Advisor: **Yinan Wang**
 
-A survey of the Seiberg–Witten theory of four-dimensional $N=2$ supersymmetric quantum field theory and its geometric engineering via local mirror symmetry of toric varieties.
+A survey of the Seiberg–Witten theory of four-dimensional $\mathcal{N}=2$ supersymmetric quantum field theory and its geometric engineering via local mirror symmetry of toric varieties.
 
 ### A Glimpse into Homological Mirror Symmetry
 **REU Program, The University of Chicago**, Mentors: **Weinan Lin** and **Peter May**
