@@ -12,7 +12,7 @@ Joint work with **Pierrick Bousseau** and **Bernd Siebert**,
 
 We prove the quantum closed string mirror symmetry conjecture for local $\mathbb{P}^2$ proposed by Aganagic–Cheng–Dijkgraaf–Krefl–Vafa using deformation quantization theory and the Gross-Siebert program. Our method can be generalized to all local toric del Pezzo surfaces.
 
-## Ongoing research projects
+## Ongoing Research Projects
 
 > Wavefunctions, Wall Crossing and Punctured–Open Correspondence
 
