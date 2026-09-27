@@ -15,4 +15,4 @@ From April to June 2026, I was a visiting student at **DPMMS, University of Camb
 
 Before my PhD, I got my BSc in Physics and Mathematics (double bachelor degree) at **Peking University**, where I learnt some supersymmetric quantum field theory and string theory from **Yinan Wang** and some symplectic geometry from **Bohan Fang**.
 
-PS: My first name is Wàng (旺, Chinese meaning: prosperity), which is different from the common Chinese last name Wáng (王). They have different characters and tones. I am usually addressed by Wàng. <span style="font-size: 3em;">☺</span>
+PS: My first name is Wàng (旺, Chinese meaning: prosperity), which is different from the common Chinese last name Wáng (王). They have different characters and tones. I am usually addressed by Wàng. <span style="font-size: 1.5em;">☺</span>
