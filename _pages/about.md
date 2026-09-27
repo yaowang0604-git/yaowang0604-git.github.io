@@ -1,20 +1,22 @@
 ---
 permalink: /
-title: "Wang Yao (姚旺)"
+title: "Wang Yao"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a **fifth-year PhD student in Mathematics at The University of Texas at Austin**, advised by **Bernd Siebert**. My research interests lie at the intersection of **algebraic geometry** and **mathematical physics**. During my PhD, I have been exploring the applications of tropical and logarithmic methods to enumerative geometry and mirror symmetry. With training in both mathematics and physics, I have broad interests in connections between geometry and theoretical physics including (supersymmetric) quantum field theory, string theory and M-theory.
+I am a **PhD candidate in Mathematics at The University of Texas at Austin**, advised by **Bernd Siebert**. My research lies at the intersection of **algebraic geometry** and **mathematical physics**, with an emphasis on tropical and logarithmic methods in enumerative geometry and mirror symmetry.
 
-I am currently on the job-market for math postdoc positions.
+My main current project, joint with **Pierrick Bousseau** and **Bernd Siebert**, concerns quantum mirror symmetry for the local Calabi–Yau threefold
+\[
+K_{\mathbb P^2}.
+\]
+We prove the quantum closed-string mirror-symmetry conjecture of Aganagic–Cheng–Dijkgraaf–Krefl–Vafa in this case, using deformation quantization and the Gross–Siebert construction of the mirror Landau–Ginzburg model.
+
+I am also working on **wavefunction wall crossing and the punctured–open correspondence**, and on **theta functions and crystal melting in toric-degeneration mirror symmetry**.
 
 From April to June 2026, I was a visiting student at **DPMMS, University of Cambridge**, hosted by **Mark Gross**.
 
-Before my PhD, I got my BSc in Physics and Mathematics (double bachelor degree) at **Peking University**, where I learnt some supersymmetric quantum field theory and string theory from **Yinan Wang** and some symplectic geometry from **Bohan Fang**.
-
-Here is my CV. Please see my [research](/research/), [talks](/talks/), [teaching and mentoring](/teaching/).
-
-PS: My first name is Wang (旺) (Chinese meaning: prosperity), which is different from the common Chinese last name Wang (王). They have different characters and tones. I am usually addressed by Wang :)
+Please see my [research](/research/), [publications](/publications/), [talks](/talks/), [teaching and mentoring](/teaching/), and [CV](/cv/).
