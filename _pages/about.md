@@ -15,4 +15,6 @@ From April to June 2026, I was a visiting student at **DPMMS, [University of Cam
 
 Before my PhD, I got my BSc in Physics and Mathematics (double bachelor degree) at **[Peking University](https://english.pku.edu.cn/)**, where I learnt some supersymmetric quantum field theory and string theory from **[Yinan Wang](https://inspirehep.net/authors/1066122)** and some symplectic geometry from **[Bohan Fang](https://bohanfang.github.io/)**.
 
+My email is wangyao AT utexas DOT edu. Please feel free to reach me if you are interested in my research.
+
 PS: My first name is Wàng (旺, Chinese meaning: prosperity), which is different from the common Chinese last name Wáng (王). They have different characters and tones. I am usually addressed by Wàng. 😊
