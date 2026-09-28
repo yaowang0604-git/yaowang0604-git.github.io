@@ -13,6 +13,6 @@ author_profile: true
 A survey of the Seiberg–Witten theory of four-dimensional $\mathcal{N}=2$ supersymmetric quantum field theory and its geometric engineering via local mirror symmetry of toric varieties.
 
 ### [A Glimpse into Homological Mirror Symmetry](https://math.uchicago.edu/~may/REU2021/REUPapers/Yao,Wang.pdf)
-**REU Program, [The University of Chicago](https://www.uchicago.edu/)**, Mentors: **[Weinan Lin](https://waynelin92.github.io/)** and **[Peter May](https://math.uchicago.edu/~may/)**
+**[REU Program](https://math.uchicago.edu/~may/REU2021/), [The University of Chicago](https://www.uchicago.edu/)**, Mentors: **[Weinan Lin](https://waynelin92.github.io/)** and **[Peter May](https://math.uchicago.edu/~may/)**
 
 A survey of homological mirror symmetry from both mathematical and physical perspectives.
