@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Invited Research Talks and Posters
-
+- **Quantum Mirror Symmetry Via Gross–Siebert Program** — 1-hour talk, Geometry/Physics Seminar, [Northwestern University](https://www.math.northwestern.edu/), USA, October 2026.
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — [Poster](/files/Poster_String_Math_2026_Edinburgh.pdf), [String Math 2026](https://icms.ac.uk/activities/workshop/stringmath26/), Edinburgh, UK, June 2026. 
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — 1-hour talk, Junior Geometry Seminar, [University of Cambridge](https://www.cam.ac.uk/), UK, June 2026.
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — Contributed talk, [25th Anniversary of the Gross–Siebert Program](https://sites.google.com/view/gs25anniversary/), Cetraro, Italy, May 2026. [Slides](/files/Cetraro_Talk.pdf)
