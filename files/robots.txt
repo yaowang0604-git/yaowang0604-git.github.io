@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /files/
+
+User-agent: GPTBot
+Disallow: /files/
+
+User-agent: OAI-SearchBot
+Disallow: /files/
+
+User-agent: ClaudeBot
+Disallow: /files/
+
+User-agent: Claude-SearchBot
+Disallow: /files/
+
+User-agent: PerplexityBot
+Disallow: /files/
