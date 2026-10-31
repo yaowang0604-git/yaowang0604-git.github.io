@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Preprints
 
->  Quantum Geometry of Mirror Landau–Ginzburg Model of $(\mathbb{P}^2,E)$ **[Manuscript Available](https://octmanuscript.yaowang0604.workers.dev/files/Quantum_Periods_2026_10_31.pdf)**
+>  Quantum Geometry of Mirror Landau–Ginzburg Model of $(\mathbb{P}^2,E)$, **[Manuscript Available](https://octmanuscript.yaowang0604.workers.dev/files/Quantum_Periods_2026_10_31.pdf)**
 
 Joint work with **[Pierrick Bousseau](https://www.maths.ox.ac.uk/people/pierrick.bousseau)** and **[Bernd Siebert](https://web.ma.utexas.edu/users/siebert/)**,
 
