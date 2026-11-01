@@ -10,7 +10,7 @@ author_profile: true
 
 Joint work with **[Pierrick Bousseau](https://www.maths.ox.ac.uk/people/pierrick.bousseau)** and **[Bernd Siebert](https://web.ma.utexas.edu/users/siebert/)**,
 
-We prove the quantum closed string mirror symmetry conjecture for local $\mathbb{P}^2$ proposed by **[Aganagic–Cheng–Dijkgraaf–Krefl–Vafa](https://link.springer.com/article/10.1007/JHEP11(2012)019)**. We use deformation quantization theory to obtain an intrinsic definition of quantum periods and find their enumerative meaning via the Gross-Siebert program. Our method can be directly generalized to all local toric del Pezzo surfaces. We also reformulate the quantum open string mirror symmetry conjecture into a punctured-open correspondence in enumerative geometry.
+We prove the quantum closed string mirror symmetry conjecture for local $\mathbb{P}^2$ proposed by **[Aganagic–Cheng–Dijkgraaf–Krefl–Vafa](https://link.springer.com/article/10.1007/JHEP11(2012)019)**. We use deformation quantization theory to give an intrinsic definition of quantum periods and establish their enumerative meaning via the Gross-Siebert program. Our method can be directly generalized to all local toric del Pezzo surfaces. We also reformulate the quantum open string mirror symmetry conjecture into a punctured-open correspondence in enumerative geometry.
 
 ## Ongoing Research Projects
 
