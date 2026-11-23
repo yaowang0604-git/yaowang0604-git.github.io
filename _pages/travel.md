@@ -4,6 +4,7 @@ title: "Travel"
 permalink: /travel/
 author_profile: true
 ---
+- **[Algebraic Geometry Northeastern Series (AGNES)](https://sites.google.com/site/agneshomepage/brown-2026)**, [Brown University](https://mathematics.brown.edu/), USA — November 2026
 - **[String Math 2026](https://icms.ac.uk/activities/workshop/stringmath26/)**, Edinburgh, UK — June 2026
 - **[25th Anniversary of the Gross–Siebert Program](https://sites.google.com/view/gs25anniversary/)**, Cetraro, Italy — May 2026
 - **[2025 Summer Research Institute in Algebraic Geometry](https://sites.google.com/view/2025summerinstitute/home)**, [Colorado State University](https://mathematics.colostate.edu/), USA — July 2025
