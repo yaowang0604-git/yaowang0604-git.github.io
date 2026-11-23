@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Invited Research Talks and Posters
+- **Quantum Mirror Symmetry Via Gross–Siebert Program** — [Poster](/files/Poster_AGNES_Brown_2026.pdf), [Algebraic Geometry Northeastern Series (AGNES)](https://sites.google.com/site/agneshomepage/brown-2026), [Brown University](https://mathematics.brown.edu/), USA, November 2026. 
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — 1-hour talk, Geometry/Physics Seminar, [Northwestern University](https://www.math.northwestern.edu/), USA, October 2026.
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — [Poster](/files/Poster_String_Math_2026_Edinburgh.pdf), [String Math 2026](https://icms.ac.uk/activities/workshop/stringmath26/), Edinburgh, UK, June 2026. 
 - **Quantum Mirror Symmetry Via Gross–Siebert Program** — 1-hour talk, Junior Geometry Seminar, [University of Cambridge](https://www.dpmms.cam.ac.uk/), UK, June 2026.
